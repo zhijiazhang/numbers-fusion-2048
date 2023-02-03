@@ -22,5 +22,5 @@ The game's code base is organized by the MVC(Model-View-Controller) design patte
 ## Installation and Setup Instructions
 
 1. Clone down this repository
-2. Open up your favorite IDE (must support Java), navigate to `main`   file and press `run`.
+2. Import code library into your favorite IDE (must support Java), navigate to the `main` file and press `run`.
 3. Have fun!
