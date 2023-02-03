@@ -1,4 +1,4 @@
-## Number Fusion (2048)
+## Numbers Fusion (2048)
 
 Overview:
 
